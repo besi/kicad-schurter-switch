@@ -1,0 +1,5 @@
+Schurter Switch
+===============
+
+![](image.png)
+
